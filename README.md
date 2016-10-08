@@ -1,6 +1,12 @@
 vmnetcfg
 ========
 
+The open source version is host on [https://github.com/buaabyl/openvmnetcfg]
+
+This project is offical version [https://github.com/buaabyl/vmnetcfg]
+
+
+
 because googlecode stop download, I copy to github.
 so https://code.google.com/p/vmnetcfg/ will not maintain.
 
