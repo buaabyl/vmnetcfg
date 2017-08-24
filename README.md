@@ -12,7 +12,7 @@ From VMware Player 12.x, major version is same as worksataion.
 But I upgrade from vmware player 6.0 to vmware player 12.0,
 so it is missing vmnetcfg for VMware Player 7.x~~
 
-Thanks @github/RobbiNespu the missing version is archive:)
+Thanks @RobbiNespu the missing version is archive:)
 
 
 
