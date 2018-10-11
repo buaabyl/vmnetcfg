@@ -1,6 +1,9 @@
 vmnetcfg
 ========
 
+From VMware 15.x, VIX is not standalone:(
+
+
 The open source version is host on [https://github.com/buaabyl/openvmnetcfg]
 
 This project is unoffical archive of vmware net config,
